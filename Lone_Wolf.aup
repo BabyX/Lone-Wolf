@@ -1,6 +1,6 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="Lone_Wolf_data" version="1.3.0" audacityversion="2.0.5" sel0="129.1550357632" sel1="129.1550357632" vpos="848" h="129.1485738111" zoom="154.7519992689" rate="44100.0">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Lone_Wolf_data" version="1.3.0" audacityversion="2.0.5" sel0="0.0000000000" sel1="1.8868900006" vpos="448" h="0.0000000000" zoom="309.5039985379" rate="44100.0">
 	<tags>
 		<tag name="ARTIST" value="Baby X"/>
 		<tag name="TITLE" value="Lone Wolf"/>
@@ -2812,7 +2812,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Salt Beat" channel="0" linked="1" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+	<wavetrack name="Salt Beat" channel="0" linked="1" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="0.398107" pan="0.0">
 		<waveclip offset="90.64750250">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="7896960">
 				<waveblock start="0">
@@ -2912,7 +2912,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Salt Beat" channel="1" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+	<wavetrack name="Salt Beat" channel="1" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="0.398107" pan="0.0">
 		<waveclip offset="90.64750250">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="7896960">
 				<waveblock start="0">
@@ -3038,299 +3038,11 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="DrumsChorus" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
-		<waveclip offset="156.98504778">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+	<wavetrack name="DrumsChorus" channel="0" linked="1" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="0.562341" pan="0.0">
+		<waveclip offset="223.42845432">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="82201">
 				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="158.83119291">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="160.67733803">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="162.52348316">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="164.36962828">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="166.21577341">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="168.06191853">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="169.90806366">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="171.75420878">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="173.60035391">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="175.44649903">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="177.29264416">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="179.13878928">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="180.98493441">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="182.83107953">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="184.67722466">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="186.52336978">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="188.36951490">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="190.21566003">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="192.06180515">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="193.90795028">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="195.75409540">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="197.60024053">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="199.44638565">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="201.29253078">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="203.13867590">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="204.98482103">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="206.83096615">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="208.67711128">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="210.52325640">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="212.36940153">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="214.21554665">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="216.06169178">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="217.90783690">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="219.75398202">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="221.60012715">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="223.44627227">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
+					<simpleblockfile filename="e0001069.au" len="82201" min="-0.999969" max="0.999969" rms="0.133265"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
@@ -3512,315 +3224,19 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 		<waveclip offset="265.90761014">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="19739">
 				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="267.75375527">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e0001950.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.133265"/>
+					<simpleblockfile filename="e0001fc2.au" len="19739" min="-0.999969" max="0.999969" rms="0.089666"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="DrumsChorus" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
-		<waveclip offset="156.98504778">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+	<wavetrack name="DrumsChorus" channel="1" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="0.562341" pan="0.0">
+		<waveclip offset="223.42845432">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="82201">
 				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="158.83119291">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="160.67733803">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="162.52348316">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="164.36962828">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="166.21577341">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="168.06191853">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="169.90806366">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="171.75420878">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="173.60035391">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="175.44649903">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="177.29264416">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="179.13878928">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="180.98493441">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="182.83107953">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="184.67722466">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="186.52336978">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="188.36951490">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="190.21566003">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="192.06180515">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="193.90795028">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="195.75409540">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="197.60024053">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="199.44638565">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="201.29253078">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="203.13867590">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="204.98482103">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="206.83096615">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="208.67711128">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="210.52325640">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="212.36940153">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="214.21554665">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="216.06169178">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="217.90783690">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="219.75398202">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="221.60012715">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="223.44627227">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
+					<simpleblockfile filename="e0001c87.au" len="82201" min="-0.999969" max="0.999969" rms="0.132095"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
@@ -4002,23 +3418,15 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 		<waveclip offset="265.90761014">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="19739">
 				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
-				</waveblock>
-			</sequence>
-			<envelope numpoints="0"/>
-		</waveclip>
-		<waveclip offset="267.75375527">
-			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
-				<waveblock start="0">
-					<pcmaliasblockfile summaryfile="e00011f2.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.132095"/>
+					<simpleblockfile filename="e0001c89.au" len="19739" min="-0.999969" max="0.999969" rms="0.087123"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Click" channel="2" linked="0" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+	<wavetrack name="Click" channel="2" linked="0" mute="1" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="1.0" pan="0.0">
 		<waveclip offset="0.00000000">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415385">
 				<waveblock start="0">
@@ -4958,7 +4366,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="DrumsVerse2" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+	<wavetrack name="DrumsVerse2" channel="0" linked="1" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="1.0" pan="0.0">
 		<waveclip offset="31.39216309">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
 				<waveblock start="0">
@@ -5072,7 +4480,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="DrumsVerse2" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+	<wavetrack name="DrumsVerse2" channel="1" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="1.0" pan="0.0">
 		<waveclip offset="31.39216309">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
 				<waveblock start="0">
@@ -5181,6 +4589,1676 @@
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
 				<waveblock start="0">
 					<pcmaliasblockfile summaryfile="e00013da.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse2.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.1037"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="DrumsVerse1" channel="0" linked="1" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="1.86104219">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="3.70718732">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="5.55333244">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="7.39947757">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="9.24562269">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="11.09176782">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="12.93791294">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="14.78405807">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="16.63020319">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="18.47634831">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="20.32249344">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="22.16863856">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="24.01478369">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="25.86092881">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="27.70707394">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="29.55321906">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="38.77674359">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="40.62288872">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="42.46903384">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="44.31517897">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="46.16132409">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="48.00746922">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="49.85361434">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="51.69975947">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="53.54590459">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="55.39204972">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="57.23819484">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="59.08433997">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="60.93048509">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="62.77663022">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="64.62277534">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="66.46892047">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="DrumsVerse1" channel="1" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="1.86104219">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="3.70718732">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="5.55333244">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="7.39947757">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="9.24562269">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="11.09176782">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="12.93791294">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="14.78405807">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="16.63020319">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="18.47634831">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="20.32249344">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="22.16863856">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="24.01478369">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="25.86092881">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="27.70707394">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="29.55321906">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="38.77674359">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="40.62288872">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="42.46903384">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="44.31517897">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="46.16132409">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="48.00746922">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="49.85361434">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="51.69975947">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="53.54590459">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="55.39204972">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="57.23819484">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="59.08433997">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="60.93048509">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="62.77663022">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="64.62277534">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="66.46892047">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="DrumsPreChorus" channel="0" linked="1" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="79.39182015">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001630.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsPreChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.069245"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="81.23796528">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001630.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsPreChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.069245"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="83.08411040">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001630.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsPreChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.069245"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="84.93025552">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001630.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsPreChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.069245"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="86.77640065">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001630.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsPreChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.069245"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="88.62254577">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001630.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsPreChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.069245"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="90.46869090">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001630.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsPreChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.069245"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="92.31483602">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001630.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsPreChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.069245"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="68.31494940">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00012ee.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsPreChorus2.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.754059" max="0.711945" rms="0.077668"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="70.16109453">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00012ee.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsPreChorus2.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.754059" max="0.711945" rms="0.077668"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="72.00723965">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00012ee.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsPreChorus2.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.754059" max="0.711945" rms="0.077668"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="73.85338478">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00012ee.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsPreChorus2.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.754059" max="0.711945" rms="0.077668"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="75.69952990">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00012ee.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsPreChorus2.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.754059" max="0.711945" rms="0.077668"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="77.54567503">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00012ee.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsPreChorus2.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.754059" max="0.711945" rms="0.077668"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="94.16098115">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="96.00712627">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="97.85327140">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="99.69941652">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="101.54556165">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="103.39170677">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="105.23785190">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="107.08399702">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="108.93014215">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="110.77628727">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="112.62243240">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="114.46857752">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="116.31472265">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="118.16086777">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="120.00701289">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="121.85315802">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="123.69930314">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="125.54544827">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="127.39159339">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="129.23773852">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00014a8.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.546753" max="0.585846" rms="0.07448"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="DrumsPreChorus" channel="1" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="79.39182015">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e000149c.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsPreChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.88739" max="0.999969" rms="0.064717"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="81.23796528">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e000149c.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsPreChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.88739" max="0.999969" rms="0.064717"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="83.08411040">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e000149c.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsPreChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.88739" max="0.999969" rms="0.064717"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="84.93025552">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e000149c.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsPreChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.88739" max="0.999969" rms="0.064717"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="86.77640065">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e000149c.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsPreChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.88739" max="0.999969" rms="0.064717"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="88.62254577">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e000149c.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsPreChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.88739" max="0.999969" rms="0.064717"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="90.46869090">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e000149c.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsPreChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.88739" max="0.999969" rms="0.064717"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="92.31483602">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e000149c.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsPreChorus.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.88739" max="0.999969" rms="0.064717"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="68.31494940">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001fa3.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsPreChorus2.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.874847" rms="0.088814"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="70.16109453">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001fa3.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsPreChorus2.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.874847" rms="0.088814"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="72.00723965">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001fa3.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsPreChorus2.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.874847" rms="0.088814"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="73.85338478">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001fa3.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsPreChorus2.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.874847" rms="0.088814"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="75.69952990">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001fa3.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsPreChorus2.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.874847" rms="0.088814"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="77.54567503">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001fa3.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsPreChorus2.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.874847" rms="0.088814"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="94.16098115">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="96.00712627">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="97.85327140">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="99.69941652">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="101.54556165">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="103.39170677">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="105.23785190">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="107.08399702">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="108.93014215">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="110.77628727">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="112.62243240">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="114.46857752">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="116.31472265">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="118.16086777">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="120.00701289">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="121.85315802">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="123.69930314">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="125.54544827">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="127.39159339">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="129.23773852">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001194.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsVerse1.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.546753" max="0.585846" rms="0.077775"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="DrumsPreChorus2" channel="0" linked="1" mute="0" solo="0" height="150" minimized="1" isSelected="1" rate="44100" gain="1.0" pan="0.0"/>
+	<wavetrack name="DrumsPreChorus2" channel="1" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="1" rate="44100" gain="1.0" pan="0.0"/>
+	<wavetrack name="DrumImpact" channel="0" linked="1" mute="0" solo="0" height="150" minimized="1" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="156.48263101">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001902.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumImpact.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.989044" rms="0.042614"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="DrumImpact" channel="1" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="156.48263101">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001980.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumImpact.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.048901"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="DrumsLoudAndComplex" channel="0" linked="1" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="156.94789156">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00019b7.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoudAndComplex.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.100445"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="158.79403669">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00019b7.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoudAndComplex.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.100445"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="160.64018181">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00019b7.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoudAndComplex.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.100445"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="162.48632693">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00019b7.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoudAndComplex.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.999969" max="0.999969" rms="0.100445"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="DrumsLoudAndComplex" channel="1" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="156.94789156">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001184.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoudAndComplex.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.112541"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="158.79403669">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001184.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoudAndComplex.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.112541"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="160.64018181">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001184.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoudAndComplex.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.112541"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="162.48632693">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001184.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoudAndComplex.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.999969" max="0.999969" rms="0.112541"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="DrumsLoadAndSimple" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="164.34036471">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001a18.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.892639" max="0.999969" rms="0.104421"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="166.18650984">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001a18.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.892639" max="0.999969" rms="0.104421"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="168.03265496">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001a18.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.892639" max="0.999969" rms="0.104421"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="169.87880009">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001a18.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.892639" max="0.999969" rms="0.104421"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="171.72494521">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001a18.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.892639" max="0.999969" rms="0.104421"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="173.57109034">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001a18.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.892639" max="0.999969" rms="0.104421"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="175.41723546">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001a18.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.892639" max="0.999969" rms="0.104421"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="177.26338059">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001a18.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.892639" max="0.999969" rms="0.104421"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="179.10952571">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001a18.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.892639" max="0.999969" rms="0.104421"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="180.95567084">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001a18.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.892639" max="0.999969" rms="0.104421"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="182.80181596">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001a18.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.892639" max="0.999969" rms="0.104421"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="184.64796109">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001a18.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.892639" max="0.999969" rms="0.104421"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="186.49410621">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001a18.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.892639" max="0.999969" rms="0.104421"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="188.34025133">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001a18.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.892639" max="0.999969" rms="0.104421"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="190.18639646">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001a18.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.892639" max="0.999969" rms="0.104421"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="192.03254158">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001a18.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.892639" max="0.999969" rms="0.104421"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="193.87868671">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001a18.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.892639" max="0.999969" rms="0.104421"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="195.72483183">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001a18.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.892639" max="0.999969" rms="0.104421"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="197.57097696">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001a18.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.892639" max="0.999969" rms="0.104421"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="199.41712208">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001a18.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.892639" max="0.999969" rms="0.104421"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="201.26326721">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001a18.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.892639" max="0.999969" rms="0.104421"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="203.10941233">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001a18.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.892639" max="0.999969" rms="0.104421"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="204.95555746">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001a18.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.892639" max="0.999969" rms="0.104421"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="206.80170258">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001a18.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.892639" max="0.999969" rms="0.104421"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="208.64784771">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001a18.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.892639" max="0.999969" rms="0.104421"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="210.49399283">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001a18.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.892639" max="0.999969" rms="0.104421"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="212.34013796">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001a18.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.892639" max="0.999969" rms="0.104421"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="214.18628308">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001a18.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.892639" max="0.999969" rms="0.104421"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="216.03242821">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001a18.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.892639" max="0.999969" rms="0.104421"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="217.87857333">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001a18.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.892639" max="0.999969" rms="0.104421"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="219.72471845">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001a18.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="0" min="-0.892639" max="0.999969" rms="0.104421"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="221.57086358">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="80780">
+				<waveblock start="0">
+					<simpleblockfile filename="e00013a2.au" len="80780" min="-0.999969" max="0.999969" rms="0.107074"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="DrumsLoadAndSimple" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="164.34036471">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001f39.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.782593" max="0.999969" rms="0.102464"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="166.18650984">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001f39.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.782593" max="0.999969" rms="0.102464"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="168.03265496">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001f39.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.782593" max="0.999969" rms="0.102464"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="169.87880009">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001f39.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.782593" max="0.999969" rms="0.102464"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="171.72494521">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001f39.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.782593" max="0.999969" rms="0.102464"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="173.57109034">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001f39.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.782593" max="0.999969" rms="0.102464"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="175.41723546">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001f39.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.782593" max="0.999969" rms="0.102464"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="177.26338059">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001f39.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.782593" max="0.999969" rms="0.102464"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="179.10952571">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001f39.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.782593" max="0.999969" rms="0.102464"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="180.95567084">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001f39.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.782593" max="0.999969" rms="0.102464"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="182.80181596">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001f39.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.782593" max="0.999969" rms="0.102464"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="184.64796109">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001f39.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.782593" max="0.999969" rms="0.102464"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="186.49410621">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001f39.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.782593" max="0.999969" rms="0.102464"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="188.34025133">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001f39.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.782593" max="0.999969" rms="0.102464"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="190.18639646">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001f39.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.782593" max="0.999969" rms="0.102464"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="192.03254158">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001f39.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.782593" max="0.999969" rms="0.102464"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="193.87868671">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001f39.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.782593" max="0.999969" rms="0.102464"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="195.72483183">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001f39.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.782593" max="0.999969" rms="0.102464"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="197.57097696">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001f39.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.782593" max="0.999969" rms="0.102464"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="199.41712208">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001f39.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.782593" max="0.999969" rms="0.102464"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="201.26326721">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001f39.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.782593" max="0.999969" rms="0.102464"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="203.10941233">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001f39.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.782593" max="0.999969" rms="0.102464"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="204.95555746">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001f39.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.782593" max="0.999969" rms="0.102464"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="206.80170258">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001f39.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.782593" max="0.999969" rms="0.102464"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="208.64784771">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001f39.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.782593" max="0.999969" rms="0.102464"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="210.49399283">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001f39.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.782593" max="0.999969" rms="0.102464"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="212.34013796">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001f39.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.782593" max="0.999969" rms="0.102464"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="214.18628308">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001f39.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.782593" max="0.999969" rms="0.102464"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="216.03242821">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001f39.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.782593" max="0.999969" rms="0.102464"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="217.87857333">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001f39.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.782593" max="0.999969" rms="0.102464"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="219.72471845">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="81415">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e0001f39.auf" aliasfile="C:\Users\James\rec\Lone Wolf\DrumsLoadAndSimple.wav" aliasstart="0" aliaslen="81415" aliaschannel="1" min="-0.782593" max="0.999969" rms="0.102464"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="221.57086358">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="80780">
+				<waveblock start="0">
+					<simpleblockfile filename="e0001ff1.au" len="80780" min="-0.999969" max="0.999969" rms="0.109001"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
