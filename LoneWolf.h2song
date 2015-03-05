@@ -9,7 +9,7 @@
  <notes>Empty song.</notes>
  <license>Unknown license</license>
  <loopEnabled>true</loopEnabled>
- <mode>pattern</mode>
+ <mode>song</mode>
  <humanize_time>0</humanize_time>
  <humanize_velocity>0</humanize_velocity>
  <swing_factor>0</swing_factor>
@@ -2122,7 +2122,7 @@
  <virtualPatternList/>
  <patternSequence>
   <group>
-   <patternID>Pattern 8</patternID>
+   <patternID>Pattern 1</patternID>
   </group>
  </patternSequence>
  <ladspa>
